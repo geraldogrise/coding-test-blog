@@ -34,7 +34,7 @@ namespace Blog.Application.App
 
         public PostModel Update(int id, PostModel post)
         {
-            var response = _postService.Update(_mapper.Map<Post>(post));
+            var response = _postService.Update(id, _mapper.Map<Post>(post));
             return _mapper.Map<PostModel>(response);
         }
 

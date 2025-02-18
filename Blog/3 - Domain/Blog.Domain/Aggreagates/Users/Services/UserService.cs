@@ -30,9 +30,10 @@ namespace Blog.Domain.Aggreagates.Users.Services
         }
 
 
-        public User Update(User user)
+        public User Update(int id, User user)
         {
-            _userRepository.Add(user);
+            user.Id = id;
+            _userRepository.Update(user);
             _userRepository.SaveChanges();
             return user;
         }
@@ -61,7 +62,7 @@ namespace Blog.Domain.Aggreagates.Users.Services
             if (user == null)
                 throw new AuthenticationExcecption("Invalid username or password");
 
-            return _authService.GenerateJwtToken(user.Login);
+            return _authService.GenerateJwtToken(user);
         }
 
         public void Dispose()

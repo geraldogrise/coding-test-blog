@@ -27,9 +27,10 @@ namespace Blog.Domain.Aggreagates.Posts.Services
         }
 
 
-        public Post Update(Post post)
+        public Post Update(int id, Post post)
         {
-            _postRepository.Add(post);
+            post.Id = id;
+            _postRepository.Update(post);
             _postRepository.SaveChanges();
             return post;
         }

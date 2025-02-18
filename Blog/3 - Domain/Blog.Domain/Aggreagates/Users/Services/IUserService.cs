@@ -10,7 +10,7 @@ namespace Blog.Domain.Aggreagates.Users.Services
     {
        public User Insert(User user);
 
-       public User Update(User user);
+       public User Update(int id, User user);
 
        public bool Delete(int id);
 

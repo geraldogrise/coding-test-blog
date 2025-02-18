@@ -292,7 +292,7 @@
       }
     },
     "/api/users/{id}/posts": {
-      "delete": {
+      "get": {
         "tags": [
           "User"
         ],
