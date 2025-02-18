@@ -20,5 +20,7 @@ namespace Blog.Domain.Aggreagates.Posts.Services
         public List<Post> GetAll();
 
         public List<Post> GetByUser(int id_user);
+
+        public List<PostUser> GetPosts();
     }
 }

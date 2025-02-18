@@ -27,6 +27,10 @@ class  PostService extends BaseService {
     DeletarPost = async (id:number) => {
         return await this.Delete(id,"api/posts");
     };
+
+    listarPostagens = async () => {
+        return await this.Get("api/posts/all");
+    };
 }
 
 export default PostService;

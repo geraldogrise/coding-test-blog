@@ -39,6 +39,21 @@ namespace Blog.Endpoints.Controllers
 
         }
 
+        [HttpGet("all")]
+        public IActionResult GetPostsl()
+        {
+            try
+            {
+                return Response(_postAppService.GetPosts());
+            }
+            catch (Exception ex)
+            {
+                RaiseError(ex.Message);
+                return Response(null, ex.Message, null);
+            }
+
+        }
+
         [Authorize]
         [HttpGet("{id}")]
         public IActionResult GetById(int id)

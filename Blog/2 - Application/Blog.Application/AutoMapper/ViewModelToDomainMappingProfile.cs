@@ -12,6 +12,7 @@ namespace Blog.Application.AutoMapper
             CreateMap<UserModel, User>();
             CreateMap<PostModel, Post>();
             CreateMap<LoginModel, Login>();
+            CreateMap<PostUserModel, PostUser>();
         }
     }
 }

@@ -53,6 +53,11 @@ namespace Blog.Application.App
             return _mapper.Map<List<PostModel>>(_postService.GetByUser(id_user));
         }
 
+        public List<PostUserModel> GetPosts()
+        {
+            return _mapper.Map<List<PostUserModel>>(_postService.GetPosts());
+        }
+
         public List<PostModel> GetAll()
         {
             return _mapper.Map<List<PostModel>>(_postService.GetAll());

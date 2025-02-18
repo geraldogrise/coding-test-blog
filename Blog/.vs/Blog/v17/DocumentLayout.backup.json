@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{7C7EC8EF-4455-40DC-95B6-474D87B32C06}|2 - Application\\Blog.Application\\Blog.Application.csproj|solutionrelative:2 - application\\blog.application\\app\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{694F0C91-ACBF-4C40-B914-CFD521604083}|3 - Domain\\Blog.Domain\\Blog.Domain.csproj|c:\\repositorios\\coding-test-blog\\blog\\3 - domain\\blog.domain\\aggreagates\\users\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694F0C91-ACBF-4C40-B914-CFD521604083}|3 - Domain\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:3 - domain\\blog.domain\\aggreagates\\users\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694F0C91-ACBF-4C40-B914-CFD521604083}|3 - Domain\\Blog.Domain\\Blog.Domain.csproj|c:\\repositorios\\coding-test-blog\\blog\\3 - domain\\blog.domain\\aggreagates\\users\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694F0C91-ACBF-4C40-B914-CFD521604083}|3 - Domain\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:3 - domain\\blog.domain\\aggreagates\\users\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A9D4AD8-CF3F-4CD7-8230-2F1EED1A4007}|1 - Services\\WebApplication1\\Blog.Endpoints\\Blog.Endpoints.csproj|c:\\repositorios\\coding-test-blog\\blog\\1 - services\\webapplication1\\blog.endpoints\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A9D4AD8-CF3F-4CD7-8230-2F1EED1A4007}|1 - Services\\WebApplication1\\Blog.Endpoints\\Blog.Endpoints.csproj|solutionrelative:1 - services\\webapplication1\\blog.endpoints\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A9D4AD8-CF3F-4CD7-8230-2F1EED1A4007}|1 - Services\\WebApplication1\\Blog.Endpoints\\Blog.Endpoints.csproj|c:\\repositorios\\coding-test-blog\\blog\\1 - services\\webapplication1\\blog.endpoints\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D4AD8-CF3F-4CD7-8230-2F1EED1A4007}|1 - Services\\WebApplication1\\Blog.Endpoints\\Blog.Endpoints.csproj|solutionrelative:1 - services\\webapplication1\\blog.endpoints\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,48 +28,22 @@
               "RelativeDocumentMoniker": "2 - Application\\Blog.Application\\App\\UserAppService.cs",
               "ToolTip": "C:\\repositorios\\coding-test-blog\\Blog\\2 - Application\\Blog.Application\\App\\UserAppService.cs",
               "RelativeToolTip": "2 - Application\\Blog.Application\\App\\UserAppService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAtwCsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:54:32.38Z",
+              "WhenOpened": "2025-02-18T17:49:21.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\repositorios\\coding-test-blog\\Blog\\3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\IUserService.cs",
-              "ToolTip": "C:\\repositorios\\coding-test-blog\\Blog\\3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\IUserService.cs",
-              "RelativeToolTip": "3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\repositorios\\coding-test-blog\\Blog\\1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\repositorios\\coding-test-blog\\Blog\\1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\PostController.cs",
+              "RelativeToolTip": "1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\PostController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:53:40.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\repositorios\\coding-test-blog\\Blog\\3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\UserService.cs",
-              "ToolTip": "C:\\repositorios\\coding-test-blog\\Blog\\3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\UserService.cs",
-              "RelativeToolTip": "3 - Domain\\Blog.Domain\\Aggreagates\\Users\\Services\\UserService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowCIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:53:13.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\repositorios\\coding-test-blog\\Blog\\1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\repositorios\\coding-test-blog\\Blog\\1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\UserController.cs",
-              "RelativeToolTip": "1 - Services\\WebApplication1\\Blog.Endpoints\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T12:37:22.364Z",
+              "WhenOpened": "2025-02-18T17:47:41.523Z",
               "EditorCaption": ""
             }
           ]

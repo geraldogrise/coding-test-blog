@@ -82,6 +82,18 @@
         }
       }
     },
+    "/api/posts/all": {
+      "get": {
+        "tags": [
+          "Post"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/posts/{id}": {
       "get": {
         "tags": [

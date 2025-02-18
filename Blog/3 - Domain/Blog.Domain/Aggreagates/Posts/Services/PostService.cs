@@ -52,6 +52,11 @@ namespace Blog.Domain.Aggreagates.Posts.Services
             return _postRepository.GetByUser(id_user).ToList();
         }
 
+        public List<PostUser> GetPosts()
+        {
+            return _postRepository.GetPosts().ToList();
+        }
+
         public List<Post> GetAll()
         {
             return _postRepository.GetAll().ToList();
