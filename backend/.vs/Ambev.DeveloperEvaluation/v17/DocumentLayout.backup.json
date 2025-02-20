@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repositorios\\ambev-desafio\\template\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|c:\\repositorios\\ambev-desafio\\template\\backend\\src\\ambev.developerevaluation.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|solutionrelative:src\\ambev.developerevaluation.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\repositorios\\ambev-desafio\\template\\backend\\src\\ambev.developerevaluation.application\\cartsitems\\deletecartitem\\deletecartitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\cartsitems\\deletecartitem\\deletecartitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|c:\\repositorios\\ambev-desafio\\template\\backend\\tests\\ambev.developerevaluation.unit\\application\\carts\\deletecarthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|solutionrelative:tests\\ambev.developerevaluation.unit\\application\\carts\\deletecarthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\repositorios\\ambev-desafio\\template\\backend\\src\\ambev.developerevaluation.application\\cartsitems\\deletecartitem\\deletecartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\cartsitems\\deletecartitem\\deletecartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 348,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\repositorios\\ambev-desafio\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\repositorios\\ambev-desafio\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:22:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteCartItemHandler.cs",
+              "DocumentMoniker": "C:\\repositorios\\ambev-desafio\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemHandler.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemHandler.cs",
+              "ToolTip": "C:\\repositorios\\ambev-desafio\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemHandler.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:18:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteCartHandlerTests.cs",
+              "DocumentMoniker": "C:\\repositorios\\ambev-desafio\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\Carts\\DeleteCartHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\Carts\\DeleteCartHandlerTests.cs",
+              "ToolTip": "C:\\repositorios\\ambev-desafio\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\Carts\\DeleteCartHandlerTests.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\Carts\\DeleteCartHandlerTests.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:18:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteCartItemCommand.cs",
+              "DocumentMoniker": "C:\\repositorios\\ambev-desafio\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemCommand.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemCommand.cs",
+              "ToolTip": "C:\\repositorios\\ambev-desafio\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemCommand.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\CartsItems\\DeleteCartItem\\DeleteCartItemCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:18:00.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
