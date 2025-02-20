@@ -41,7 +41,7 @@ namespace Blog.Application.App
 
         public UserModel Update(int id, UserModel user)
         {
-            var response = _userService.Update(_mapper.Map<User>(user));
+            var response = _userService.Update(id, _mapper.Map<User>(user));
             return _mapper.Map<UserModel>(response);
         }
 
@@ -70,7 +70,6 @@ namespace Blog.Application.App
         {
             _userService.Dispose();
         }
-
 
     }
 }

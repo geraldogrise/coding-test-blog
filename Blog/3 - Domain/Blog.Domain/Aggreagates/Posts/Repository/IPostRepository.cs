@@ -12,5 +12,7 @@ namespace Blog.Domain.Aggreagates.Posts.Repository
     public interface IPostRepository : IRepository<Post>
     {
         List<Post> GetByUser(int id_user);
+
+        public List<PostUser> GetPosts();
     }
 }

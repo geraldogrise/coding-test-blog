@@ -1,0 +1,15 @@
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\bin\Debug\net8.0\Blog.Domain.deps.json
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\bin\Debug\net8.0\Blog.Domain.dll
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\bin\Debug\net8.0\Blog.Domain.pdb
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.AssemblyReference.cache
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.Messages.Mensagens.resources
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.GenerateResource.cache
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfoInputs.cache
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfo.cs
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.CoreCompileInputs.cache
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.sourcelink.json
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.dll
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\refint\Blog.Domain.dll
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\Blog.Domain.pdb
+C:\repositorios\coding-test-blog\Blog\3 - Domain\Blog.Domain\obj\Debug\net8.0\ref\Blog.Domain.dll

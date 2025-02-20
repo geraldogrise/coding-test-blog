@@ -79,6 +79,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Blog.Endpoints.Controllers.PostController",
+    "Method": "GetPostsl",
+    "RelativePath": "api/posts/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Blog.Endpoints.Controllers.UserController",
     "Method": "GetAll",
     "RelativePath": "api/users",
@@ -161,7 +171,7 @@
     "ContainingType": "Blog.Endpoints.Controllers.UserController",
     "Method": "GetByUser",
     "RelativePath": "api/users/{id}/posts",
-    "HttpMethod": "DELETE",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [

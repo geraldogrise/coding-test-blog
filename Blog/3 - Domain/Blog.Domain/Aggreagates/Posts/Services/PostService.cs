@@ -27,9 +27,10 @@ namespace Blog.Domain.Aggreagates.Posts.Services
         }
 
 
-        public Post Update(Post post)
+        public Post Update(int id, Post post)
         {
-            _postRepository.Add(post);
+            post.Id = id;
+            _postRepository.Update(post);
             _postRepository.SaveChanges();
             return post;
         }
@@ -49,6 +50,11 @@ namespace Blog.Domain.Aggreagates.Posts.Services
         public List<Post> GetByUser(int id_user)
         {
             return _postRepository.GetByUser(id_user).ToList();
+        }
+
+        public List<PostUser> GetPosts()
+        {
+            return _postRepository.GetPosts().ToList();
         }
 
         public List<Post> GetAll()

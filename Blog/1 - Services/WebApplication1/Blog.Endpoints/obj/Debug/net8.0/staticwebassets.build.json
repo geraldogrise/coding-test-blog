@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jZYKVUuxD00Qe7aJtk0DhwTLLLtHPfgO7SK9NluEP4s=",
+  "Source": "Blog.Endpoints",
+  "BasePath": "_content/Blog.Endpoints",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

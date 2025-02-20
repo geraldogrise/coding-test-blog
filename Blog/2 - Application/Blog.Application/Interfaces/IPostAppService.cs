@@ -11,6 +11,7 @@ namespace Blog.Application.Interfaces
         public bool Delete(int id);
         public PostModel GetById(int id);
         public List<PostModel> GetByUser(int id_user);
+        public List<PostUserModel> GetPosts();
         public List<PostModel> GetAll();
     }
 }

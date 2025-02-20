@@ -1,0 +1,16 @@
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.csproj.AssemblyReference.cache
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.AssemblyInfoInputs.cache
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.AssemblyInfo.cs
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.csproj.CoreCompileInputs.cache
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.sourcelink.json
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\bin\Debug\net8.0\Blog.Application.deps.json
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\bin\Debug\net8.0\Blog.Application.dll
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\bin\Debug\net8.0\Blog.Application.pdb
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\bin\Debug\net8.0\Blog.Domain.dll
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\bin\Debug\net8.0\Blog.Domain.pdb
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.App.C7D7B2EA.Up2Date
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.dll
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\refint\Blog.Application.dll
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\Blog.Application.pdb
+C:\repositorios\coding-test-blog\Blog\2 - Application\Blog.Application\obj\Debug\net8.0\ref\Blog.Application.dll

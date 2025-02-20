@@ -62,7 +62,6 @@ namespace Blog.Endpoints.Controllers
             }
         }
 
-
         [HttpPost]
         public IActionResult Create([FromBody] UserModel userModel)
         {
@@ -117,13 +116,13 @@ namespace Blog.Endpoints.Controllers
         }
 
         [Authorize]
-        [HttpDelete("{id}/posts")]
+        [HttpGet("{id}/posts")]
         public IActionResult GetByUser(int id)
         {
 
             try
             {
-                var post = _postAppService.GetById(id);
+                var post = _postAppService.GetByUser(id);
                 if (post == null)
                     return NotFound(new { success = false, message = "Post not found" });
                 return Response(post);

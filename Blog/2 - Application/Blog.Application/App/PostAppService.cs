@@ -34,7 +34,7 @@ namespace Blog.Application.App
 
         public PostModel Update(int id, PostModel post)
         {
-            var response = _postService.Update(_mapper.Map<Post>(post));
+            var response = _postService.Update(id, _mapper.Map<Post>(post));
             return _mapper.Map<PostModel>(response);
         }
 
@@ -51,6 +51,11 @@ namespace Blog.Application.App
         public List<PostModel> GetByUser(int id_user)
         {
             return _mapper.Map<List<PostModel>>(_postService.GetByUser(id_user));
+        }
+
+        public List<PostUserModel> GetPosts()
+        {
+            return _mapper.Map<List<PostUserModel>>(_postService.GetPosts());
         }
 
         public List<PostModel> GetAll()

@@ -11,7 +11,7 @@ namespace Blog.Domain.Aggreagates.Posts.Services
     {
         public Post Insert(Post post);
 
-        public Post Update(Post post);
+        public Post Update(int id, Post post);
 
         public bool Delete(int id);
 
@@ -20,5 +20,7 @@ namespace Blog.Domain.Aggreagates.Posts.Services
         public List<Post> GetAll();
 
         public List<Post> GetByUser(int id_user);
+
+        public List<PostUser> GetPosts();
     }
 }

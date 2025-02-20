@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zJhHPIpSio=",
+  "success": true,
+  "projectFilePath": "C:\\repositorios\\coding-test-blog\\Blog\\4 - Infra\\4.2- CrossCutting\\Blog.CrossCutting\\Blog.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geraldo grise\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.2\\system.configuration.configurationmanager.9.0.2.nupkg.sha512",
+    "C:\\Users\\geraldo grise\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
+    "C:\\Users\\geraldo grise\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.2\\system.security.cryptography.protecteddata.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

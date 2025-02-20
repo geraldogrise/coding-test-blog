@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Blog.Domain.Aggreagates.Users;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace Blog.Domain.Aggreagates.Auth
 {
     public interface IAuthService
     {
-        public string GenerateJwtToken(string username);
+        public string GenerateJwtToken(User user);
     }
 }
